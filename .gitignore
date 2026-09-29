@@ -1,0 +1,5 @@
+timpla-env/
+.env
+datasets/
+timpla_combined/
+timpla_runs/
