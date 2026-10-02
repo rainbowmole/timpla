@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+.DS_Store
+timpla-env/
+datasets/
+timpla_combined/
+runs/
+timpla_runs/
+*.pt
+*.part
+train_log*.txt

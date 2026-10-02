@@ -1,5 +1,13 @@
 timpla-env/
 .env
+timpla.db
 datasets/
 timpla_combined/
 timpla_runs/
+runs/
+*.pt
+*.part
+train_log*.txt
+.DS_Store
+__pycache__/
+*.py[cod]
