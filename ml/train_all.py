@@ -3,7 +3,11 @@ import sys
 from ultralytics import YOLO
 
 EPOCHS = int(sys.argv[1])
-MODELS = sys.argv[2:] or ["yolov8n.pt", "yolo26n.pt", "yolo12n.pt"]
+MODELS = sys.argv[2:] or [
+    "ml/models/yolov8n.pt",
+    "ml/models/yolo26n.pt",
+    "ml/models/yolo12n.pt",
+]
 DEVICE = os.getenv("TIMPLA_DEVICE", "mps")
 
 results = {}

@@ -24,8 +24,8 @@ docker run --rm -v "$PWD:/workspace" timpla-ml 10
 ```
 
 The repository is mounted so the container can read `timpla_combined/` and
-write training outputs. Pass model filenames after the epoch count to train a
-specific set, for example `docker run --rm -v "$PWD:/workspace" timpla-ml 10 yolov8n.pt`.
+write training outputs. Pass model paths after the epoch count to train a
+specific set, for example `docker run --rm -v "$PWD:/workspace" timpla-ml 10 ml/models/yolov8n.pt`.
 
 The API uses `timpla.db` by default. Set `DATABASE_URL` to override it. The ontology is loaded from `timpla_combined/data.yaml`; its `names` list is the source of truth for `/ingredients` and seeding.
 
