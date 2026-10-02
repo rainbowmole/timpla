@@ -1,8 +1,10 @@
+import os
 import sys
 from ultralytics import YOLO
 
 EPOCHS = int(sys.argv[1])
 MODELS = sys.argv[2:] or ["yolov8n.pt", "yolo26n.pt", "yolo12n.pt"]
+DEVICE = os.getenv("TIMPLA_DEVICE", "mps")
 
 results = {}
 for weights in MODELS:
@@ -11,10 +13,10 @@ for weights in MODELS:
         model = YOLO(weights)
         model.train(
             data="timpla_combined/data.yaml", epochs=EPOCHS, imgsz=640,
-            batch=16, device="mps", project="timpla_runs", name=name,
+            batch=16, device=DEVICE, project="timpla_runs", name=name,
             patience=15, seed=0,
         )
-        m = model.val(device="mps")
+        m = model.val(device=DEVICE)
         results[name] = (m.box.map50, m.box.map)
     except Exception as e:
         results[name] = f"FAILED: {e}"
