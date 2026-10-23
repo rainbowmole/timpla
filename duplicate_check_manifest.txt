@@ -1,0 +1,5 @@
+Combined Dir: /Users/natty/vscode/timpla/timpla_combined
+iLene Dir: /Users/natty/vscode/timpla/ingredients-6
+Combined File Count: 4323
+iLene File Count: 3686
+Duplicates Found: 0

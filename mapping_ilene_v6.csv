@@ -1,0 +1,65 @@
+source_class,action,canonical_class
+ampalaya,map_to_existing,ampalaya
+bangus,map_to_existing,bangus
+bay leaves,map_to_existing,bay_leaves
+beef,map_to_existing,beef
+beef intestines,map_to_existing,beef
+beef kidney,map_to_existing,beef
+beef ribs,propose_new,beef_ribs
+beef tail,propose_new,beef_tail
+beef tripe,map_to_existing,beef
+bokchoy,map_to_existing,pechay
+breadcrumbs,exclude,None
+broccoli,exclude,None
+brown sugar,exclude,None
+butter,map_to_existing,butter
+cabbage,map_to_existing,cabbage
+calamansi,map_to_existing,calamansi
+canola oil,map_to_existing,cooking_oil
+cashew nuts,exclude,None
+cauliflower,exclude,None
+cellophane noodles,exclude,None
+chayote,map_to_existing,sayote
+chicharon,exclude,None
+chicken,map_to_existing,chicken_generic
+chicken bouillon granules,exclude,None
+chickpeas,exclude,None
+chorizo,exclude,None
+cloves,exclude,None
+corn,exclude,None
+dried shitake mushrooms,map_to_existing,mushroom
+egg,map_to_existing,egg
+eggplant,map_to_existing,talong
+garlic,map_to_existing,garlic
+ginger,map_to_existing,ginger
+green beans,map_to_existing,sitaw
+ham,exclude,None
+hotdog,exclude,None
+kangkong,map_to_existing,kangkong
+lemon,exclude,None
+mackerel,exclude,None
+malungay leaves,map_to_existing,malunggay
+mung beans,exclude,None
+okra,map_to_existing,okra
+olive,exclude,None
+onion,map_to_existing,onion
+pata,exclude,None
+pork heart,exclude,None
+pork liver,exclude,None
+pork loin,exclude,None
+pork lung,exclude,None
+pork meat,map_to_existing,pork_generic
+pork ribs,map_to_existing,pork_ribs
+pork skin,exclude,None
+potato,map_to_existing,potato
+puso ng saging,exclude,None
+raisins,exclude,None
+red bell pepper,map_to_existing,bell_pepper
+red chili pepper,map_to_existing,sili
+rice,map_to_existing,rice_grains
+saba banana,exclude,None
+sesame seeds,exclude,None
+singkamas,exclude,None
+sitaw,map_to_existing,sitaw
+spring onions,map_to_existing,spring_onions
+tomato,map_to_existing,tomato

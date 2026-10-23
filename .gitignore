@@ -1,13 +1,37 @@
+# Environments
 timpla-env/
-.env
-timpla.db
-datasets/
-timpla_combined/
-timpla_runs/
-runs/
-*.pt
-*.part
-train_log*.txt
-.DS_Store
+.detector_env/
+.venv/
+venv/
 __pycache__/
-*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets and merges
+datasets/
+ingredients-*/
+timpla_combined*/
+timpla-kyle_ver/
+
+# Training outputs
+runs/
+logs/
+wandb/
+
+# Database and secrets
+*.db
+.env*
+!.env.example
+*.pem
+*.key
+
+# Model weights
+*.pt
+*.onnx
+*.tflite
+
+# Tooling and system
+.claude/
+.vscode/
+.idea/
+.DS_Store

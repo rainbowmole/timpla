@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Mock Adobo",
+  "recipeIngredient": [
+    "1 kg pork belly",
+    "5 cloves of garlic",
+    "1/2 cup soy sauce",
+    "1/4 cup vinegar"
+  ]
+}

@@ -1,0 +1,65 @@
+source_class,source_class_id,action,canonical_class,confidence,reason,train_images,train_instances,valid_images,valid_instances
+ampalaya,0,ampalaya,N/A,0.0,Not in taxonomy,59,183,0,0
+bangus,1,bangus,N/A,0.0,Not in taxonomy,40,144,0,0
+bay leaves,2,bay_leaves,N/A,0.0,Not in taxonomy,35,349,0,0
+beef,3,beef,N/A,0.0,Not in taxonomy,152,254,0,0
+beef intestines,4,beef,N/A,0.0,Not in taxonomy,29,29,0,0
+beef kidney,5,beef,N/A,0.0,Not in taxonomy,99,193,0,0
+beef ribs,6,beef,N/A,0.0,Not in taxonomy,82,283,0,0
+beef tail,7,beef,N/A,0.0,Not in taxonomy,59,479,0,0
+beef tripe,8,beef,N/A,0.0,Not in taxonomy,28,29,0,0
+bokchoy,9,pechay,N/A,0.0,Not in taxonomy,42,106,0,0
+breadcrumbs,10,exclude,N/A,0.0,Not in taxonomy,95,104,0,0
+broccoli,11,exclude,N/A,0.0,Not in taxonomy,15,15,0,0
+brown sugar,12,exclude,N/A,0.0,Not in taxonomy,85,114,0,0
+butter,13,butter,N/A,0.0,Not in taxonomy,30,74,0,0
+cabbage,14,cabbage,N/A,0.0,Not in taxonomy,48,156,0,0
+calamansi,15,calamansi,N/A,0.0,Not in taxonomy,53,1302,0,0
+canola oil,16,cooking_oil,N/A,0.0,Not in taxonomy,39,39,0,0
+cashew nuts,17,exclude,N/A,0.0,Not in taxonomy,74,86,0,0
+cauliflower,18,exclude,N/A,0.0,Not in taxonomy,28,69,0,0
+cellophane noodles,19,exclude,N/A,0.0,Not in taxonomy,74,89,0,0
+chayote,20,sayote,N/A,0.0,Not in taxonomy,104,419,0,0
+chicharon,21,exclude,N/A,0.0,Not in taxonomy,36,48,0,0
+chicken,22,chicken_generic,N/A,0.0,Not in taxonomy,28,29,0,0
+chicken bouillon granules,23,exclude,N/A,0.0,Not in taxonomy,36,116,0,0
+chickpeas,24,exclude,N/A,0.0,Not in taxonomy,64,67,0,0
+chorizo,25,exclude,N/A,0.0,Not in taxonomy,33,96,0,0
+cloves,26,exclude,N/A,0.0,Not in taxonomy,77,89,0,0
+corn,27,exclude,N/A,0.0,Not in taxonomy,69,125,0,0
+dried shitake mushrooms,28,mushroom,N/A,0.0,Not in taxonomy,45,475,0,0
+egg,29,egg,N/A,0.0,Not in taxonomy,61,277,0,0
+eggplant,30,talong,N/A,0.0,Not in taxonomy,85,249,0,0
+garlic,31,garlic,N/A,0.0,Not in taxonomy,112,275,0,0
+ginger,32,ginger,N/A,0.0,Not in taxonomy,81,213,0,0
+green beans,33,sitaw,N/A,0.0,Not in taxonomy,78,82,0,0
+ham,34,pork_generic,N/A,0.0,Not in taxonomy,15,15,0,0
+hotdog,35,exclude,N/A,0.0,Not in taxonomy,16,48,0,0
+kangkong,36,kangkong,N/A,0.0,Not in taxonomy,57,58,0,0
+lemon,37,exclude,N/A,0.0,Not in taxonomy,33,206,0,0
+mackerel,38,exclude,N/A,0.0,Not in taxonomy,40,89,0,0
+malungay leaves,39,malunggay,N/A,0.0,Not in taxonomy,87,90,0,0
+mung beans,40,exclude,N/A,0.0,Not in taxonomy,28,73,0,0
+okra,41,okra,N/A,0.0,Not in taxonomy,100,267,0,0
+olive,42,exclude,N/A,0.0,Not in taxonomy,68,583,0,0
+onion,43,onion,N/A,0.0,Not in taxonomy,103,325,0,0
+pata,44,pork_belly,N/A,0.0,Not in taxonomy,32,45,0,0
+pork heart,45,pork_generic,N/A,0.0,Not in taxonomy,52,71,0,0
+pork liver,46,pork_generic,N/A,0.0,Not in taxonomy,69,108,0,0
+pork loin,47,pork_generic,N/A,0.0,Not in taxonomy,24,26,0,0
+pork lung,48,pork_generic,N/A,0.0,Not in taxonomy,49,76,0,0
+pork meat,49,pork_generic,N/A,0.0,Not in taxonomy,54,319,0,0
+pork ribs,50,pork_generic,N/A,0.0,Not in taxonomy,54,90,0,0
+pork skin,51,pork_generic,N/A,0.0,Not in taxonomy,35,57,0,0
+potato,52,potato,N/A,0.0,Not in taxonomy,181,352,0,0
+puso ng saging,53,exclude,N/A,0.0,Not in taxonomy,73,122,0,0
+raisins,54,exclude,N/A,0.0,Not in taxonomy,22,22,0,0
+red bell pepper,55,bell_pepper,N/A,0.0,Not in taxonomy,12,31,0,0
+red chili pepper,56,sili_labuyo,N/A,0.0,Not in taxonomy,16,96,0,0
+rice,57,rice_grains,N/A,0.0,Not in taxonomy,71,76,0,0
+saba banana,58,exclude,N/A,0.0,Not in taxonomy,67,67,0,0
+sesame seeds,59,exclude,N/A,0.0,Not in taxonomy,14,14,0,0
+singkamas,60,radish,N/A,0.0,Not in taxonomy,54,138,0,0
+sitaw,61,sitaw,N/A,0.0,Not in taxonomy,57,61,0,0
+spring onions,62,spring_onions,N/A,0.0,Not in taxonomy,46,54,0,0
+tomato,63,tomato,N/A,0.0,Not in taxonomy,106,586,0,0
