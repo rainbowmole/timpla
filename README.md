@@ -17,7 +17,7 @@ Ensure you have the following environment:
 ### 2. Model Weights
 The champion model is trained on the 68-class expanded dataset. 
 - **Architecture**: YOLOv12n & YOLOv8n
-- **Weights**: Download the latest `best.pt` from the [GitHub Releases](https://github.com/rainbowmole/timpla/releases) page.
+- **Weights**: Download the latest `YOLOv8n_merged_best.pt` from the [GitHub Releases](https://github.com/rainbowmole/timpla/releases) page.
 - **Input Size**: `640x640`
 
 ### 3. Inference Implementation
