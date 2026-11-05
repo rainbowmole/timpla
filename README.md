@@ -2,7 +2,7 @@
 
 A professional machine learning pipeline for the detection and classification of Filipino ingredients using YOLOv12n.
 
-## 🚀 Model Implementation Guide
+## Model Implementation Guide
 
 To implement the Timpla detection model in your own system, follow these steps:
 
@@ -49,7 +49,7 @@ The model uses a **68-class canonical list**. To ensure your system maps detecti
 
 ---
 
-## 🛠️ Development & Training
+## Development & Training
 
 ### Machine Learning Tooling
 The [`ml/`](ml/) directory contains the full pipeline for dataset merging, auditing, and evaluation.
